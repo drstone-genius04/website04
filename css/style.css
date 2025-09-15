@@ -1,0 +1,113 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 64px;
+  top: 9px;
+}
+.allan-almeida {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 318px;
+  position: absolute;
+  left: 1089px;
+  top: -1px;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.home-about-contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 26px;
+  top: 115px;
+  width: 1292px;
+  height: 93px;
+}
+.allan-almeida-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 479px;
+  top: 845px;
+  width: 516px;
+  height: 61px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-my-contact-allan-almeida-allan-004-umd-edu-professor-contact-details-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 34px;
+  top: 184px;
+  width: 1363px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-my-contact-allan-almeida-allan-004-umd-edu-professor-contact-details-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-my-contact-allan-almeida-allan-004-umd-edu-professor-contact-details-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}

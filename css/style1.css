@@ -1,0 +1,179 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 64px;
+  top: 9px;
+}
+.allan-almeida {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 318px;
+  position: absolute;
+  left: 1089px;
+  top: -1px;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.home-about-contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.budt-748-industry-practicum {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 26px;
+  top: 115px;
+  width: 1292px;
+  height: 93px;
+}
+.allan-almeida-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 479px;
+  top: 845px;
+  width: 516px;
+  height: 61px;
+}
+.budt-748-class-is-designed-as-an-industry-sponsored-practicum-project-it-has-two-main-objectives-first-the-course-provides-students-an-opportunity-towork-on-a-realworld-project-where-they-will-work-with-a-sponsoring-firm-to-use-information-technology-to-solve-a-real-world-business-problem-to-accomplish-this-goal-the-students-will-synthesize-and-integrate-the-skills-and-knowledge-acquired-in-the-msis-program {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 34px;
+  top: 184px;
+  width: 1406px;
+  height: 203px;
+}
+.semester-details {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 13px;
+  top: 397px;
+  width: 281px;
+  height: 49px;
+}
+.professor {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 13px;
+  top: 463px;
+  width: 189px;
+  height: 49px;
+}
+.teaching-assitants {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 13px;
+  top: 529px;
+  width: 352px;
+  height: 49px;
+}
+.fall-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 336px;
+  top: 396px;
+  width: 327px;
+  height: 26px;
+}
+.paul-t-shapiro {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 202px;
+  top: 466px;
+  width: 327px;
+  height: 26px;
+}
+.abhi-gupta-samiha-meah-zam-mozumder {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 336px;
+  top: 530px;
+  width: 637px;
+  height: 26px;
+}
